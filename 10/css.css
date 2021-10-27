@@ -23,6 +23,9 @@ height: 75vh;
     background-color: rgb(243, 217, 222);
     text-align: center;
     font-family: 'Scheherazade New', serif;
+    padding: 10px;
+font-size: larger;
+height: 200px;
 }
 ul li{
     display: inline;
@@ -55,4 +58,11 @@ h1{
 }
 h2{
     margin-top: 20px;
+}
+.finish2{
+    display: flex;
+    justify-content: space-around;
+    color: palevioletred;
+    background-color: rgb(243, 217, 222);
+    text-align: center;
 }
