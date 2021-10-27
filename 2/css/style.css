@@ -1,0 +1,19 @@
+body{
+    background-color:rgba(26, 26, 211, 0.74) ;
+}
+ul a{
+    text-decoration:none;
+ color:rgba(242, 243, 193, 0.842);
+
+}
+ ul{list-style-type: square;
+}
+img{
+background-color:rgb(12, 73, 12);
+weight  : 50px;
+border-radius:50%
+}
+a {
+    text-decoration:none;
+    color: hotpink;
+}

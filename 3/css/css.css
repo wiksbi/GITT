@@ -1,0 +1,21 @@
+h1{text-align: center;
+}
+img {width: 50PX;
+}
+table {
+width: 100%;
+height: 80vh; 
+border: 2PX solid;
+border-collapse: collapse;
+background: rgb(3,0,52);
+background: linear-gradient(90deg, rgba(3,0,52,1) 0%, rgba(149,149,255,1) 47%, rgba(45,163,187,1) 100%);
+}
+ th{
+     border: 1px solid;
+ }
+th:hover{
+    background-color: cornflowerblue ;
+    color: crimson;
+    
+    border: 3px solid blue;
+}

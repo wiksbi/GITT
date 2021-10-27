@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+h2{
+    font-family:'Cinzel', serif;
+}
+table{
+    background-color: rgb(230, 157, 157);
+    width: 100%;
+}
+.l{
+    width: 25%;
+    background-color:rgb(167, 150, 120);
+}
+.c{
+    background-color: white;
+    width: 3%;
+}
+
+.r{
+    background-color: rgb(167, 150, 120);
+    width: 70%;
+}
+a{
+    box-shadow: 5px 5px 5px 5px black;inset: 4px 4px 15px 4px black;
+}
