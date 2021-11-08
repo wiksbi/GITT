@@ -1,0 +1,64 @@
+.fing{
+    width: 600px;
+    height: 300px;
+    border: 2px blue solid;
+    margin: 0 auto;
+    position: relative;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+.t{
+    width: 100px;
+    height: 200px;
+    border-radius: 20%;
+    background-color:rgb(20, 65, 20);
+    position: fixed;
+    left: 50px;
+    top: 50px;
+}
+
+.r{
+    position: relative;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 20%;  
+    background: rgb(180,58,134);
+background: linear-gradient(90deg, rgba(180,58,134,1) 12%, rgba(252,179,69,1) 100%);
+}
+.rr{
+    width: 200px;
+    height: 200px;
+    border: 3px solid white ;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    border-radius: 30%
+
+}
+.rrr{
+    position: absolute;
+    left: 142px; 
+    top: 15px; ;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    background-color: white;
+
+}
+.rrrr{
+    width: 100px;
+    height: 100px;
+    border: 3px solid white ;
+    position: absolute;
+    right: 10px;
+    top: 40px;
+    border-radius: 40%
+}
